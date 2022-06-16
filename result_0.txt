@@ -1,0 +1,31 @@
+question: Describe advantages of industrial robots.
+correct_answer: It can complete tasks with precision and repeatability without requiring stoppages or breaks.
+students_answer: Generally, it does jobs faster and efficiently, but it often stops because of laziness. It gets bored easily.
+
+correctness: 0.20413890480995178
+rank: 7 -> 0.06862732768058777, Generally, it
+rank: 9 -> 0.06523542106151581, ly, it does
+rank: 1 -> 0.09111087024211884, , it does jobs
+rank: 12 -> 0.06327088177204132, it does jobs fast
+rank: 13 -> 0.06200757622718811, does jobs faster
+rank: 4 -> 0.07735159993171692, jobs faster and
+rank: 19 -> 0.05433857440948486, faster and efficient
+rank: 8 -> 0.06676959991455078, er and efficiently
+rank: 6 -> 0.07369321584701538, and efficiently,
+rank: 25 -> 0.02375251054763794, efficiently, but
+rank: 23 -> 0.02583804726600647, ly, but it
+rank: 26 -> 0.023466452956199646, , but it often
+rank: 17 -> 0.05795575678348541, but it often stop
+rank: 2 -> 0.08645570278167725, it often stops
+rank: 3 -> 0.07821092009544373, often stops because
+rank: 5 -> 0.0750008374452591, stops because of
+rank: 20 -> 0.05427047610282898, s because of la
+rank: 22 -> 0.04832765460014343, because of lazi
+rank: 21 -> 0.050842851400375366, of laziness
+rank: 11 -> 0.06347295641899109, laziness.
+rank: 10 -> 0.06459645926952362, ziness. It
+rank: 15 -> 0.05869472026824951, ness. It gets
+rank: 14 -> 0.05934712290763855, . It gets bor
+rank: 16 -> 0.05828738212585449, It gets bored
+rank: 18 -> 0.05525371432304382, gets bored easily
+rank: 24 -> 0.025737270712852478, bored easily.
